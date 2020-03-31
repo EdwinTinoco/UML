@@ -1,0 +1,11 @@
+Homework 3/27/2020:
+
+What are UML Structural Diagrams?
+What are UML Behavioral Diagrams?
+What are UML Class Diagram Associations, Multiplicity, and Navigability?
+What are UML Activity Diagrams?
+What are UML Use Case Diagrams?
+What are UML Deployment Diagrams?
+What are UML Package Diagrams?
+What are UML Interaction Sequence Diagrams?
+What are UML State Machine Diagrams?
